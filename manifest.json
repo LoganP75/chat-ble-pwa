@@ -1,0 +1,9 @@
+{
+  "name": "Chat BLE PWA",
+  "short_name": "BLE Chat",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Chat Bluetooth local en PWA",
+  "icons": []
+}
